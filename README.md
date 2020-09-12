@@ -14,5 +14,5 @@ Steps To Install
 <br>
 5. Your Theme Is Ready Enjoy!
 <br>
-<a href="Google Chrome Theme Template.crx" download>
+<a href="AJ Kurano Google Chrome Theme.zip" download>
     <button> Download The Theme!!! </button>
