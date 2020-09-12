@@ -4,13 +4,13 @@ purposes, please give me the credit somehow. Editing this file or using it after
 <br>
 Steps To Install
 <br>
-1. Click the download link
+1. Click the download link and Unzip The Folder
 <br>
 2. Go to "chrome://extension"
 <br>
 3. Switch On Developer Mode 
 <br>
-4. Drag and Drop The File You Downloaded into the Chrome Extensions
+4. Drag and Drop The Folder You Downloaded into the Chrome Extensions
 <br>
 5. Your Theme Is Ready Enjoy!
 <br>
