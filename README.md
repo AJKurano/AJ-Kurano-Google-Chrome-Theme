@@ -15,4 +15,4 @@ Steps To Install
 5. Your Theme Is Ready Enjoy!
 <br>
 <a href="AJ Kurano Google Chrome Theme.zip" download>
-    <button> Download The Theme!!! </button>
+    <button> Download The Naruto Theme!!! </button>
