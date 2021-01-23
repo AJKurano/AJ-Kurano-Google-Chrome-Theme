@@ -18,3 +18,5 @@ Steps To Install
     <button> Download The Naruto-Boruto Theme!!! </button>
 <a href="AJ Kurano Transformers Chrome Theme.zip" download>
     <button> Download The Transformers Theme!!! </button>
+<a href="AJ Kurano Among Us Chrome Theme.zip" download>
+    <button> Download The Among Us Theme!!! </button>
